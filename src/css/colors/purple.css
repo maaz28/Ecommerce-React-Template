@@ -1,0 +1,278 @@
+/* ------------------------------------------------------------------- */
+/* Purple #6957af
+---------------------------------------------------------------------- */
+.csm-trigger,
+.csm-content h4,
+#backtotop a,
+#top-bar {
+    background-color: #6957af
+}
+
+.custom-zoom-in:hover:before,
+.custom-zoom-out:hover:before,
+.infoBox-close:hover {
+    -webkit-text-stroke: 1px #6957af
+}
+
+.list-4 li:before,
+.list-3 li:before,
+.list-2 li:before,
+.list-1 li:before {
+    color: #6957af;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solid #6957af;
+    color: #6957af;
+}
+
+.numbered.color.filled ol > li::before {
+    border: 1px solid #6957af;
+    background-color: #6957af;
+}
+
+.change-photo-btn:hover,
+table.manage-table th,
+mark.color {
+    background-color: #6957af;
+}
+
+.user-menu ul li a:hover,
+.user-menu.active .user-name:after,
+.user-menu:hover .user-name:after,
+.user-menu.active .user-name,
+.user-menu:hover .user-name,
+table.manage-table td.action a:hover,
+table.manage-table .title-container .title h4 a:hover,
+.my-account-nav li a.current,
+.my-account-nav li a:hover,
+#footer .social-icons li a:hover i,
+#navigation.style-1 .current,
+#posts-nav li a:hover,
+#top-bar .social-icons li a:hover i,
+.agent .social-icons li a:hover i,
+.agent-contact-details li a:hover,
+.agent-page .agent-name h4,
+.footer-links li a:hover,
+.header-style-2 .header-widget li i,
+.header-widget .sign-in:hover,
+.home-slider-desc .read-more i,
+.info-box,
+.info-box h4,
+.listing-title h4 a:hover,
+.map-box h4 a:hover,
+.plan-price .value,
+.plan.featured .listing-badges .featured,
+.post-content a.read-more,
+.post-content h3 a:hover,
+.post-meta li a:hover,
+.property-pricing,
+.style-2 .trigger a:hover,
+.style-2 .trigger.active a,
+.style-2 .ui-accordion .ui-accordion-header-active,
+.style-2 .ui-accordion .ui-accordion-header-active:hover,
+.style-2 .ui-accordion .ui-accordion-header:hover,
+.tabs-nav li a:hover,
+.tabs-nav li.active a,
+.testimonial-author h4,
+.widget-button:hover,
+.widget-text h5 a:hover,
+a,
+a.button.border,
+a.button.border.white:hover {
+    color: #6957af
+}
+
+#header-container.top-border {
+    border-top: 4px solid #6957af
+}
+
+#navigation.style-1 .current {
+    background-color: transparent;
+    border: 1px solid #6957af
+}
+
+#navigation.style-1 ul li:hover {
+    background-color: #6957af
+}
+
+#navigation.style-2 {
+    background-color: #6957af
+}
+
+.menu-responsive i {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, .07) 0, transparent);
+    background-color: #6957af
+}
+
+.checkboxes input[type=checkbox]:checked+label:before,
+.range-slider .ui-widget-header,
+.search-type label.active,
+.search-type label:hover {
+    background-color: #6957af
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    border: 2px solid #6957af
+}
+
+.agent-avatar a:before {
+    background: #6957af;
+    background: linear-gradient(to bottom, transparent 50%, #6957af)
+}
+
+.view-profile-btn {
+    background-color: #6957af
+}
+
+.listing-img-container:after {
+    background: linear-gradient(to bottom, transparent 60%, #6957af)
+}
+
+.listing-badges .featured {
+    background-color: #6957af
+}
+
+.list-layout .listing-img-container:after {
+    background: linear-gradient(to bottom, transparent 55%, #6957af)
+}
+
+#titlebar.property-titlebar span.property-badge,
+.back-to-listings:hover,
+.home-slider-price,
+.img-box:hover:before,
+.layout-switcher a.active,
+.layout-switcher a:hover,
+.listing-hidden-content,
+.office-address h3:after,
+.pagination .current,
+.pagination ul li a.current-page,
+.pagination ul li a:hover,
+.pagination-next-prev ul li a:hover,
+.property-features.checkboxes li:before {
+    background-color: #6957af
+}
+
+.post-img:after,
+.tip {
+    background: #6957af
+}
+
+.property-slider-nav .item.slick-current.slick-active:before {
+    border-color: #6957af
+}
+
+.post-img:after {
+    background: linear-gradient(to bottom, transparent 40%, #6957af)
+}
+
+.comment-by a.reply:hover,
+.post-img:before {
+    background-color: #6957af
+}
+
+.map-box .listing-img-container:after {
+    background: linear-gradient(to bottom, transparent 50%, #6957af)
+}
+
+#geoLocation:hover,
+#mapnav-buttons a:hover,
+#scrollEnabling.enabled,
+#scrollEnabling:hover,
+#streetView:hover,
+.cluster div,
+.custom-zoom-in:hover,
+.custom-zoom-out:hover,
+.infoBox-close:hover,
+.listing-carousel.owl-theme .owl-controls .owl-next:after,
+.listing-carousel.owl-theme .owl-controls .owl-prev:before,
+.listing-carousel.owl-theme.outer .owl-controls .owl-next:hover::after,
+.listing-carousel.owl-theme.outer .owl-controls .owl-prev:hover::before,
+.slick-next:after,
+.slick-prev:after {
+    background-color: #6957af
+}
+
+.cluster div:before {
+    border: 7px solid #6957af;
+    box-shadow: inset 0 0 0 4px #6957af
+}
+
+.mfp-arrow:hover {
+    background: #6957af
+}
+
+.dropzone:hover {
+    border: 2px dashed #6957af
+}
+
+.dropzone:before {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, .95), rgba(255, 255, 255, .9));
+    background-color: #6957af
+}
+
+.chosen-container .chosen-results li.highlighted,
+.chosen-container-multi .chosen-choices li.search-choice,
+.select-options li:hover,
+a.button,
+a.button.border:hover,
+button.button,
+input[type=button],
+input[type=submit] {
+    background-color: #6957af
+}
+
+.dropzone:hover .dz-message,
+.sort-by .chosen-container-single .chosen-default,
+.sort-by .chosen-container-single .chosen-single div b:after {
+    color: #6957af
+}
+
+a.button.border {
+    border: 1px solid #6957af
+}
+
+.plan.featured .plan-price {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, .1) 0, transparent);
+    background-color: #6957af
+}
+
+.fp-accordion .accordion h3.ui-accordion-header-active,
+.trigger.active a,
+.ui-accordion .ui-accordion-header-active,
+.ui-accordion .ui-accordion-header-active:hover {
+    background-color: #6957af;
+    border-color: #6957af
+}
+
+.tabs-nav li a:hover,
+.tabs-nav li.active a {
+    border-color: #6957af
+}
+
+.style-3 .tabs-nav li a:hover,
+.style-3 .tabs-nav li.active a {
+    border-color: #6957af;
+    background-color: #6957af
+}
+
+.style-4 .tabs-nav li.active a,
+.style-5 .tabs-nav li.active a,
+table.basic-table th {
+    background-color: #6957af
+}
+
+.info-box {
+    border-top: 2px solid #6957af;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, .98), rgba(255, 255, 255, .95));
+    background-color: #6957af
+}
+
+.info-box.no-border {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, .96), rgba(255, 255, 255, .93));
+    background-color: #6957af
+}
+
+.icon-box-1 .icon-container {
+    background-color: #6957af
+}
